@@ -16,6 +16,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+// Some more sample changes in feature branch.
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
